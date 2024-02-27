@@ -1,0 +1,7 @@
+C:\Users\hmtkr\OneDrive\Desktop\VisualStudio\Word_Counting_App\Word_Counting_App\obj\Debug\Word_Counting_App.csproj.AssemblyReference.cache
+C:\Users\hmtkr\OneDrive\Desktop\VisualStudio\Word_Counting_App\Word_Counting_App\obj\Debug\Word_Counting_App.csproj.CoreCompileInputs.cache
+C:\Users\hmtkr\OneDrive\Desktop\VisualStudio\Word_Counting_App\Word_Counting_App\bin\Debug\Word_Counting_App.exe.config
+C:\Users\hmtkr\OneDrive\Desktop\VisualStudio\Word_Counting_App\Word_Counting_App\bin\Debug\Word_Counting_App.exe
+C:\Users\hmtkr\OneDrive\Desktop\VisualStudio\Word_Counting_App\Word_Counting_App\bin\Debug\Word_Counting_App.pdb
+C:\Users\hmtkr\OneDrive\Desktop\VisualStudio\Word_Counting_App\Word_Counting_App\obj\Debug\Word_Counting_App.exe
+C:\Users\hmtkr\OneDrive\Desktop\VisualStudio\Word_Counting_App\Word_Counting_App\obj\Debug\Word_Counting_App.pdb
